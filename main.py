@@ -95,7 +95,7 @@ if bot4:
     bot4.join_chat("Arcane_bots")
 if bot5:
     bot5.start()
-    bot5.join_chat("Arcane_bots"))
+    bot5.join_chat("Arcane_bots")
 
 idle()
 
