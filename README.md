@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">𝐗𝐝 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 🔥 </p>
+<p align="center">💜✨ 𝐀𝐑𝐂𝐀𝐍𝐄 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 💜 💫 </p>
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
-<p align="center"><a href="https://t.me/TheXCodeTeam"><img src="https://telegra.ph/file/7e98fc1a320ee7fd023b9.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/TheXCodeTeam"><img src="https://telegra.ph/file/c59ca1574255af5ddbf71.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -12,7 +12,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=NitricXd&repo=XD-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=THE-ARCANE&repo=Arcane_userbot&theme=dark)
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
@@ -25,7 +25,7 @@
 
 <p align="center">𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧</p>
 
-<p align="center"><a href="https://replit.com/@NitricXd/Generator#main.py"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/@Jinx_string_bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 
 #
@@ -36,7 +36,7 @@
 
 
 - **Spamming!**
-- **You Can deploy Upto 50 Clients At a Same Time**
+- **You Can deploy Upto 5 Clients At a Same Time**
 - **Almost 60 Plugins There adding more Plugins Soon**
 - **Id Safety Specially For Fake accounts**
 
@@ -50,7 +50,7 @@
 
 <p align="center"><a href="https://zaid.vercel.app/"> <img src="https://img.shields.io/badge/Deploy%20Multi%20Client-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/NitricXd/XD-USERBOT//tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/THE-ARCANE/Arcane_userbot//tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 
 
